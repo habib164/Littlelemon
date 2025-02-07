@@ -1,0 +1,7 @@
+
+Hello world
+git status
+git add newfile.txt
+:w
+i
+
